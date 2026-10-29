@@ -1,0 +1,8 @@
+{
+  "versionCode": 54,
+  "versionName": "5.4.4",
+  "minVersionCode": 54,
+  "force": true,
+  "apkUrl": "https://github.com/Puchet0/xuper-latino/releases/download/v5.4.4/Xuper-Latino-v54.apk",
+  "notes": "• Actualización automática obligatoria: la app avisa al abrir y no deja usar hasta instalar la versión nueva\n• Descarga e instalación del APK desde la propia app (pide permiso de instalar apps desconocidas)\n• Mejoras y correcciones"
+}
